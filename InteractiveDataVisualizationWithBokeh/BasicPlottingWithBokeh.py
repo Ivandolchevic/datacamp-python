@@ -7,9 +7,8 @@ from bokeh.plotting import ColumnDataSource
 from dateutil import parser
 import pandas as pd
 import numpy as np
-from statfunc import toolbox 
+import toolbox 
 import math
-import shapefile 
 
 df = pd.read_csv('literacy_birth_rate.csv')
 
