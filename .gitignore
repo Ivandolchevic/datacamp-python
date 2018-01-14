@@ -19,3 +19,6 @@ __pycache__/
 *.json~
 *.xml
 *.iml
+*.sqlite
+*.sas7bdat
+*.dta
